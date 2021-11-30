@@ -1,2 +1,2 @@
 # RESTful
-This is a RESTful framwork based IP query system, using SOAP and REST Web services, depending on Ali Cloud IP query interface.
+This is an IP query system, using SOAP and RESTful Web services, depending on Ali Cloud IP query interface.
